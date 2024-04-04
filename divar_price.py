@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import joblib
 
-loaded_model = joblib.load('C:\\first project\\model.joblib')
+loaded_model = joblib.load('divar.joblib')
 
 st.title('Tehran houses Prediction in 2024')
 st.write("""### We need some information to predict the """)
