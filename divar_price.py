@@ -5,7 +5,7 @@ import joblib
 
 loaded_model = joblib.load('divar.joblib')
 
-st.title('Tehran houses Prediction in 2024')
+st.title('Tehran House Price Prediction in 2024')
 st.write("""### We need some information to predict the """)
 
 address = (
