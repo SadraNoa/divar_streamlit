@@ -52,7 +52,7 @@ address = (
        'Chidz', 'Khavaran', 'Boloorsazi', 'Mehrabad River River',
        'Varamin - Beheshti', 'Shoosh', 'Thirteen November', 'Darakeh',
        'Aliabad South', 'Alborz Complex', 'Firoozkooh', 'Vahidiyeh',
-       'Shadabad', 'Naziabad', 'Javadiyeh', 'Yakhchiabad'
+       'Shadabad', 'Naziabad', 'Javadiyeh', 'Yakhchiabad', 'nirohavaiee'
 )
 
 area = st.number_input("Enter the area: ", 1, 200)
