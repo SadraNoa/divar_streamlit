@@ -19,9 +19,10 @@ from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
+```
 Regularization:
 Regularization is a crucial step, especially since we have a column called "cabin" in our dataset. This helps us handle the data more effectively.
-```
+
 Handling Missing Values:
 We often encounter missing values, like in the age column. Here's how we can handle them efficiently:
 
